@@ -1,4 +1,4 @@
-# Aerial-Cactus-Identification
+# Aerial-Cactus-Identification using Pytorch
 
 ## This dataset is part of Kaggle competitions.
 
